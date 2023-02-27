@@ -1,11 +1,13 @@
-Android com Kotlin: criando um app
+## Android com Kotlin <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  width="40" height="40"/>
 
-Criando e implementando layouts com Constraint Layout;
+💬 Android com Kotlin: criando um app
 
-Listagem com RecyclerView;
+💬 Criando e implementando layouts com Constraint Layout;
 
-Implementação de formulário;
+💬 Listagem com RecyclerView;
 
-Utilização do padrão DAO;
+💬 Implementação de formulário;
 
-Técnicas de refatoração.
+💬 Utilização do padrão DAO;
+
+💬 Técnicas de refatoração.
